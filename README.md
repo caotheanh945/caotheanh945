@@ -1,5 +1,6 @@
 <h1>👋 Hi, I’m Manatee</h1>
 -✍ I'm a IT Student
+
 -🔭 I'm passionate about Machine Learning and Data Engineering
 ## 📫 How to reach me:
 
